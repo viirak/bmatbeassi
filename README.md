@@ -43,13 +43,13 @@ This required you have Python3.9 on your system. If not, please following the in
 Assuming that Python3.9, and Git are installed on your system. First clone the project repo into your local folder.
 
 ```
-git clone https://github.com/viirak/playcount.git
+git clone git@github.com:viirak/bmatbeassi.git
 ```
 
 Go into the project folder
 
 ```
-cd playcount
+cd bmatbeassi
 ```
 
 Inside this folder, create the virtual environment so the project can run and install the required packages without affecting the system environment.
